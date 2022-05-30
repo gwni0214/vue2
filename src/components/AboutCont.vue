@@ -1,6 +1,6 @@
 <template>
   <main id="main">
-    <TitleLayout name1="about" name2="me" />
+    <TitleLayout name1="introduce" name2="me" />
     <section class="about__cont light">
       <div class="container">
         <div class="about__inner">
